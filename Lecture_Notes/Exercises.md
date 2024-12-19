@@ -374,6 +374,7 @@ $$
    - $g(x) = \sqrt{x}$
    - $h(x) = \frac{1}{x}$
    - $j(x) = \sin(x)$
+   - https://www.geogebra.org/calculator/qxthxxvy ==================
 
 Find value of all the above functions at $x = 2$.
 
@@ -384,14 +385,21 @@ Find value of all the above functions at $x = 2$.
    - $g(g(x))$
 
 and visualize functions in a single Geogebra notebook.
+https://www.geogebra.org/calculator/whx3v88a ===========================
 
 3. Let $f(x) = e^x$ and $g(x) = \ln(x)$. Check: $f(g(x))$ and $g(f(x))$. What do you notice?
+https://www.geogebra.org/calculator/phnkfrgy ============================
 
 4. We have function $f=\{(1,7), (2,9), (3,11)\}$. Give inverse function $f^{-1}$.
+https://www.geogebra.org/calculator/wdszdx9h POINT===================
+https://www.geogebra.org/calculator/e5kwe8vf INVERSE=================
 
 5. We have function $f=\{(1,7), (2,7), (3,11)\}$. Give inverse function $f^{-1}$.
+https://www.geogebra.org/calculator/tuufg9hy po ========================
+https://www.geogebra.org/calculator/dfnjkjdn ınv =======================
 
 6. We have function $f(x)= x-1$. Give inverse function $f^{-1}$. Show both functions on the same Geogebra notebook.
+https://www.geogebra.org/calculator/mcqnrvfm ====================
 
 ## 19. Limits of Sequences
 
